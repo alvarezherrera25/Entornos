@@ -35,7 +35,7 @@ public class ClasificadorTryCatch {
                 edad = -1; 
             }
             
-            System.out.println("-------------------------------");
+            System.out.println("FELIZ 2026");
 
         } while (edad != 0);
 
